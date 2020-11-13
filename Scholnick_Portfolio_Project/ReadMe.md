@@ -3,4 +3,4 @@ Portfolio documents \
 Porfolio ppt deck \
 Portfolio presentation \
 Supporting documents \
-Resum
+Resume
