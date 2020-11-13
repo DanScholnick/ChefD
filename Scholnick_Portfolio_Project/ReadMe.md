@@ -1,5 +1,5 @@
 This folder contains the following:
-Portfolio documen
+Portfolio documents
 Porfolio ppt deck
 Portfolio presentation
 Supporting documents
